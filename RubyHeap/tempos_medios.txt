@@ -1,0 +1,9 @@
+Tamanho da entrada: 10, Tempo médio: 7.5069999999999994e-06 segundos
+Tamanho da entrada: 100, Tempo médio: 0.00011272909999999999 segundos
+Tamanho da entrada: 1000, Tempo médio: 0.0017033834 segundos
+Tamanho da entrada: 10000, Tempo médio: 0.0228562348 segundos
+Tamanho da entrada: 100000, Tempo médio: 0.29368011699999996 segundos
+Tamanho da entrada: 200000, Tempo médio: 0.6292834698 segundos
+Tamanho da entrada: 400000, Tempo médio: 1.3524799415 segundos
+Tamanho da entrada: 800000, Tempo médio: 2.9475130733 segundos
+Tamanho da entrada: 1000000, Tempo médio: 3.7875207683 segundos

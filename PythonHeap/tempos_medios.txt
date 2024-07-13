@@ -1,0 +1,36 @@
+Tamanho da entrada: 10, Tempo médio: 1.1348724365234375e-05 segundos
+Tamanho da entrada: 100, Tempo médio: 0.0001683473587036133 segundos
+Tamanho da entrada: 1000, Tempo médio: 0.0030009269714355467 segundos
+Tamanho da entrada: 10000, Tempo médio: 0.04484086036682129 segundos
+Tamanho da entrada: 100000, Tempo médio: 0.38626048564910886 segundos
+Tamanho da entrada: 200000, Tempo médio: 0.8744775056838989 segundos
+Tamanho da entrada: 400000, Tempo médio: 1.9680835962295533 segundos
+Tamanho da entrada: 800000, Tempo médio: 4.528797149658203 segundos
+Tamanho da entrada: 1000000, Tempo médio: 5.805015254020691 segundos
+Tamanho do vetor: 10, Tempo médio gasto (aleatório): 0.000009 segundos
+Tamanho do vetor: 10, Tempo médio gasto (crescente): 0.000008 segundos
+Tamanho do vetor: 10, Tempo médio gasto (decrescente): 0.000006 segundos
+Tamanho do vetor: 100, Tempo médio gasto (aleatório): 0.000146 segundos
+Tamanho do vetor: 100, Tempo médio gasto (crescente): 0.000156 segundos
+Tamanho do vetor: 100, Tempo médio gasto (decrescente): 0.000127 segundos
+Tamanho do vetor: 1000, Tempo médio gasto (aleatório): 0.001536 segundos
+Tamanho do vetor: 1000, Tempo médio gasto (crescente): 0.001652 segundos
+Tamanho do vetor: 1000, Tempo médio gasto (decrescente): 0.001405 segundos
+Tamanho do vetor: 10000, Tempo médio gasto (aleatório): 0.023429 segundos
+Tamanho do vetor: 10000, Tempo médio gasto (crescente): 0.024417 segundos
+Tamanho do vetor: 10000, Tempo médio gasto (decrescente): 0.021430 segundos
+Tamanho do vetor: 100000, Tempo médio gasto (aleatório): 0.345528 segundos
+Tamanho do vetor: 100000, Tempo médio gasto (crescente): 0.333594 segundos
+Tamanho do vetor: 100000, Tempo médio gasto (decrescente): 0.308617 segundos
+Tamanho do vetor: 200000, Tempo médio gasto (aleatório): 0.788472 segundos
+Tamanho do vetor: 200000, Tempo médio gasto (crescente): 0.721113 segundos
+Tamanho do vetor: 200000, Tempo médio gasto (decrescente): 0.678643 segundos
+Tamanho do vetor: 400000, Tempo médio gasto (aleatório): 1.831340 segundos
+Tamanho do vetor: 400000, Tempo médio gasto (crescente): 1.547850 segundos
+Tamanho do vetor: 400000, Tempo médio gasto (decrescente): 1.478888 segundos
+Tamanho do vetor: 800000, Tempo médio gasto (aleatório): 4.012491 segundos
+Tamanho do vetor: 800000, Tempo médio gasto (crescente): 3.289908 segundos
+Tamanho do vetor: 800000, Tempo médio gasto (decrescente): 3.159572 segundos
+Tamanho do vetor: 1000000, Tempo médio gasto (aleatório): 5.145312 segundos
+Tamanho do vetor: 1000000, Tempo médio gasto (crescente): 4.329618 segundos
+Tamanho do vetor: 1000000, Tempo médio gasto (decrescente): 4.020764 segundos
