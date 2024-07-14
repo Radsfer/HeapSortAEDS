@@ -6,9 +6,9 @@ O código serve para comparar o tempo do algoritmo HeapSort em diferentes lingua
 [![Overleaf](https://img.shields.io/badge/overleaf-template-brightgreen)](https://www.overleaf.com/read/wsfbfbdqffzf#471767)
 
 ## Membros do grupo 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msjujubr)Julia de Moura Souza
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Radsfer) Rafael Adolfo Silva Ferreira
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rutrama) Arthur Santana de Mesquita
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msjujubr)Julia de Moura Souza
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Radsfer) Rafael Adolfo Silva Ferreira
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rutrama) Arthur Santana de Mesquita
 
 
 # Como compilar em cada caso
